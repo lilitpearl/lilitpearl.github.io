@@ -17,9 +17,9 @@ menu:
 # 网站信息
 # 此处的配置仅影响页内展示，不影响网页meta
 blog_info:
-  title: MEOW
-  subtitle: 可爱明亮的Hexo主题
-  description: Hexo主题「Meow」展示站。本主题尤其适用于发布原创小说、同人二创等文学作品。
+  title: 猪家军
+  subtitle: 猪猪公主的QQ空间
+  description: 你好，欢迎访问猪猪公主的QQ空间，天天开心！
 
 # 文章相关显示值
 article:
