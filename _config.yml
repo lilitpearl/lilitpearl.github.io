@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: zh-CN
+language: zh-CN # 中文：zh-CN | 英文：en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://lilitpearl..github.io/
+url: http://lilitpearl.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
